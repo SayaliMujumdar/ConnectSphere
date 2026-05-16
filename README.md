@@ -81,15 +81,6 @@ MONGO_URI=mongodb://localhost:27017/connectsphere
 JWT_SECRET=your_jwt_secret
 CLIENT_URL=http://localhost:5173
 
-# OAuth (optional)
-GOOGLE_CLIENT_ID=your_google_client_id
-GOOGLE_CLIENT_SECRET=your_google_client_secret
-GOOGLE_CALLBACK_URL=http://localhost:5000/api/auth/google/callback
-
-FACEBOOK_APP_ID=your_facebook_app_id
-FACEBOOK_APP_SECRET=your_facebook_app_secret
-FACEBOOK_CALLBACK_URL=http://localhost:5000/api/auth/facebook/callback
-
 # Email (for password reset)
 SMTP_HOST=smtp.gmail.com
 SMTP_PORT=587
