@@ -6,14 +6,16 @@ A full-stack social media platform built with React and Node.js featuring real-t
 
 | Screenshot                          | Description                                      |
 | ----------------------------------- | ------------------------------------------------ |
-| `screenshots/login.png`             | Login page with OAuth options                    |
-| `screenshots/home-feed.png`         | Home feed showing posts, likes, and comments     |
-| `screenshots/profile.png`           | User profile page with bio, followers, and posts |
-| `screenshots/messages.png`          | Real-time messaging interface                    |
-| `screenshots/notifications.png`     | Notifications panel                              |
-| `screenshots/search.png`            | User and post search results                     |
-| `screenshots/create-post.png`       | Create post modal with media upload              |
-| `screenshots/mobile-responsive.png` | Mobile responsive view                           |
+| `screenshots/signIn.jpeg`           | Login page                     |
+| `screenshots/signup.jpeg`           | Login page                     |
+| `screenshots/home-feed.jpeg`         | Home feed showing posts, likes, and comments     |
+| `screenshots/profile.jpeg`           | User profile page with bio, followers, and posts |
+| `screenshots/messages.jpeg`          | Real-time messaging interface                    |
+| `screenshots/Notifications.jpeg`     | Notifications panel                              |
+| `screenshots/MobileViewSearch.jpeg`   | User and post search results                     |
+| `screenshots/MobileViewPostsPage.jpeg`       | Create post modal with media upload              |
+| `screenshots/ResetPassword.jpeg`       | Reset Password Page  
+
 
 ## Features
 
