@@ -108,8 +108,6 @@ npm run dev:frontend
 | ------ | --------------------------------- | ---------------------- |
 | POST   | `/api/auth/register`              | Register a new user    |
 | POST   | `/api/auth/login`                 | Login                  |
-| GET    | `/api/auth/google`                | Google OAuth           |
-| GET    | `/api/auth/facebook`              | Facebook OAuth         |
 | POST   | `/api/auth/forgot-password`       | Request password reset |
 | POST   | `/api/auth/reset-password/:token` | Reset password         |
 | GET    | `/api/users/:username`            | Get user profile       |
